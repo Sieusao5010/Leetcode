@@ -12,3 +12,4 @@ C:\Users\as\source\repos\LeetCode\Longest Substring Without Repeating Characters
 C:\Users\as\source\repos\LeetCode\Longest Substring Without Repeating Characters\obj\Debug\net8.0\Longest Substring Without Repeating Characters.pdb
 C:\Users\as\source\repos\LeetCode\Longest Substring Without Repeating Characters\obj\Debug\net8.0\Longest Substring Without Repeating Characters.genruntimeconfig.cache
 C:\Users\as\source\repos\LeetCode\Longest Substring Without Repeating Characters\obj\Debug\net8.0\ref\Longest Substring Without Repeating Characters.dll
+C:\Users\as\source\repos\LeetCode\Longest Substring Without Repeating Characters\obj\Debug\net8.0\Longest Substring Without Repeating Characters.sourcelink.json
